@@ -1,7 +1,7 @@
 layout: manewry/manewry
 permalink: /manewry/
 
-layout: chess
+layout: chess/chess
 permalink: /chess/
 
 theme: jekyll-theme-midnight
