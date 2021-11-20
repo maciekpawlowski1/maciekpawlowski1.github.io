@@ -1,6 +1,9 @@
 ## Hi there 👋
 ### I am Android Developer, I am studying IT and Intelligent Systems at AGH University of Science and Technology in Krakow in Poland. 🏢
 ### I am mostly programming apps in Java for Android
+
+<img src="profilowe.jpg" alt="my_photo" width="300"/>
+
 ## ✨ My apps avaible on Google Play:
 * ✅ [Shopisto](https://play.google.com/store/apps/details?id=com.pawlowski.shopisto) - app which allows to create a shopping list, invite other people to it and edit it together online. There are also suggestions based on previously added products which helps to remember what to by. Everything is sorted by product categories
 
