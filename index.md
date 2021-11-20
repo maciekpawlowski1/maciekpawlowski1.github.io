@@ -12,5 +12,5 @@
 
 
 ## ✨ My other projects:
-* Chess (game written in C++ with SDL library)
+* [Chess](https://maciekpawlowski1.github.io/chess) (game written in C++ with SDL library)
 * [Manewry Morskie](https://maciekpawlowski1.github.io/manewry) (game writen in C++ with SDL library)
