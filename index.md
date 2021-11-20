@@ -1,4 +1,4 @@
-## Hi there! My name is Maciej Pawłowski
+## Hi there! My name is Maciej Pawłowski 👋
 ### I am Android Developer, I am studying IT and Intelligent Systems at AGH University of Science and Technology in Krakow in Poland. 🏢
 ### I am mostly programming apps in Java for Android
 ## ✨ My apps avaible on Google Play:
