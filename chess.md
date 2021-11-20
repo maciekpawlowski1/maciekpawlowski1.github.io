@@ -1,7 +1,8 @@
 # Chess
 
+
 ## General
-I created this game in C++ using SDL graphic library. First v
+I created this game in C++ using SDL graphic library. First version was to play with opponent on the same device. Later i created version to play with oponnent via LAN network.
 
 ## Screnshoot 1
 <img src="chess_1.png" alt="photo_1" width="650"/>
