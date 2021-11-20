@@ -13,4 +13,4 @@
 
 ## ✨ My other projects:
 * Chess (written in C++ with SDL library)
-* Manewry Morskie (writen in C++ with SDL library)
+* [Manewry Morskie](https://maciekpawlowski1.github.io/manewry) (writen in C++ with SDL library)
