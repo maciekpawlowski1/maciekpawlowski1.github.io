@@ -1,6 +1,9 @@
 layout: manewry/manewry
 permalink: /manewry/
 
+layout: chess/chess
+permalink: /chess/
+
 theme: jekyll-theme-midnight
 title: Maciej Pawłowski
 description: That's site with my projects
