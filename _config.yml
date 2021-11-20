@@ -1,8 +1,8 @@
-theme: jekyll-theme-midnight
-title: Maciej Pawłowski
-description: That's site with my projects
-
 layout: manewry
 title: "Manewry Morskie"
 description: "game created by Maciej Pawłowski"
 permalink: /manewry/
+
+theme: jekyll-theme-midnight
+title: Maciej Pawłowski
+description: That's site with my projects
