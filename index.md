@@ -1,5 +1,6 @@
-<img src="profilowe.jpg" alt="my_photo" width="250"/>
-
+<p align="center">
+    <img src="profilowe.jpg" alt="my_photo" width="250"/>
+</p>
 ## Hi there 👋
 ### I am Android Developer, I am studying IT and Intelligent Systems at AGH University of Science and Technology in Krakow in Poland. 🏢
 ### I am mostly programming apps in Java for Android
