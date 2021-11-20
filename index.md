@@ -9,3 +9,8 @@
 * ✅ [Plan Zajęć ISI AGH](https://play.google.com/store/apps/details?id=com.pawlowski.planzajweaiiib) - app for students which displays their timetable and also stores it offline, allows to add their own classes. Code avaible on [GitHub](https://github.com/maciekpawlowski1/Plan_Zajec_ISI).
 
 <img src="plan-zajec-isi-logo.png" alt="plan" width="150"/>
+
+
+## ✨ My other projects:
+* Chess (written in C++ with SDL library)
+* Manewry Morskie (writen in C++ with SDL library)
