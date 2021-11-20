@@ -13,3 +13,6 @@ I created it to play with oponnent via LAN network.
 
 ## Rules (in polish)
 <img src="manewry_morskie_4.png" alt="rules" width="650"/>
+
+
+### Come back to [home page](https://maciekpawlowski1.github.io/)
