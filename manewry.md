@@ -16,7 +16,7 @@ I created it to play with oponnent via LAN network.
 ## Rules (in polish)
 <img src="manewry_morskie_4.png" alt="rules" width="650"/>
 
-## Created on
+## When created
 I created this game on summer holidays 2020
 
 ## More projects
