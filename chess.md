@@ -13,7 +13,7 @@ I created this game in C++ using SDL graphic library. First version was to play 
 ## Screnshoot 3
 <img src="chess_3.png" alt="photo_3" width="650"/>
 
-## Created on
+## When created
 I created this game in April 2020
 
 ## More projects
