@@ -1,12 +1,13 @@
 We created for the project for Narzędzia Informatyczne a platform game. Our inspiration were games like Super Mario Bros. We developed our programming, working in group skills, and discovered some useful IT tools.
 
 Sites of other people involved to project:
-[Katarzyna Stępień]()
 
-[Wojciech Neuman]()
+[Katarzyna Stępień](https://stepkata.github.io/)
 
-[Piotr Kubala]()
+[Wojciech Neuman](https://wojciechneuman.github.io/)
 
-[Patryk Knapek]()
+[Piotr Kubala](https://piotrkubala.github.io/https://wojciechneuman.github.io/)
 
-[Tomasz Makowski]()
+[Patryk Knapek](https://razogarz.github.io/)
+
+[Tomasz Makowski](https://makowskitomasz.github.io/)
