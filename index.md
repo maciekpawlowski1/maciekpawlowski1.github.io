@@ -20,4 +20,5 @@
 * [Chess](https://maciekpawlowski1.github.io/chess) (game written in C++ with SDL library)
 * [Manewry Morskie](https://maciekpawlowski1.github.io/manewry) (game writen in C++ with SDL library)
 * [Winnica Dosłońce site](https://winnicadoslonce.pl/) (site created in Wordpress)
+* [DeadPxlz game](https://maciekpawlowski1.github.io/deadpxlz)
 
