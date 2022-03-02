@@ -9,7 +9,7 @@
 ## ✨ My apps avaible on Google Play:
 
 * ✅ [Track Your Activity](https://play.google.com/store/apps/details?id=com.pawlowski.trackyouractivity) - App which allows to track running, cycling, nordic walking and more. It can get distance what user's made and shows the route on the map. It allows to set weekly km goal, check the history of trainings. Code of the app is avaible on [GitHub](https://github.com/maciekpawlowski1/Track_Your_Activity)
-* 
+
 <img src="track-your-activity-logo.png" alt="Track Your Activity" width="150"/>
 
 * ✅ [Shopisto](https://play.google.com/store/apps/details?id=com.pawlowski.shopisto) - app which allows to create a shopping list, invite other people to it and edit it together online. There are also suggestions based on previously added products which helps to remember what to by. Everything is sorted by product categories
